@@ -1,0 +1,1 @@
+Hello there! We are excited to have you on board. Please read this readme file to understand the project's purpose and how you can contribute.
